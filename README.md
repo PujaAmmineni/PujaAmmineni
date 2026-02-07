@@ -12,10 +12,7 @@ I love taking ideas from research → real-world deployment, especially **LLMs, 
 🔹 Contributed to financial platforms supporting **50K+ users**  
 🔹 Reduced AI latency by **35%** and inference costs by **25%**
 
----
 
-
----
 
 ## 🧠 What I Work On
 
