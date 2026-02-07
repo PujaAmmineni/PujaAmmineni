@@ -62,7 +62,6 @@ REST APIs • Microservices • Distributed systems • MLOps
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/puja-ammineni/  
-🌐 Portfolio: https://your-portfolio-link.com  
 📧 Email: pamminen@mtu.edu  
 
 ---
