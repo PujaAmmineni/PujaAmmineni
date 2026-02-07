@@ -1,40 +1,79 @@
-# Hey there! 👋 I'm Puja Ammineni  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=600&lines=Hi+I'm+Puja+Ammineni;AI+%7C+ML+%7C+Software+Engineer;Building+Production+AI+Systems)](https://git.io/typing-svg)
 
-## 🚀 Welcome to My AI-Powered World  
+<br/>
 
-If you've found your way here, chances are you love **AI, Generative Models, and pushing the boundaries of innovation**—just like me! 🚀  
+## 👋 About Me
 
-## 🧠 My Journey into AI  
+AI / ML & Software Engineer passionate about building **production-ready AI systems and scalable backend platforms**.
 
-My fascination with technology started at a young age, constantly exploring how computers could solve problems and **bring ideas to life**. Over time, my curiosity led me to the world of **Artificial Intelligence and Machine Learning**, where I became deeply invested in **how machines learn, reason, and generate information**.  
+I love taking ideas from research → real-world deployment, especially **LLMs, RAG systems, ML pipelines, and cloud-native applications.**
 
-Fast forward to today, I'm a **Research Assistant at Michigan Tech**, where I focus on **fine-tuning LLMs, building Retrieval-Augmented Generation (RAG) systems, and deploying AI-driven solutions** that enhance automation and decision-making. Whether it’s chatbots, multimodal AI, or document intelligence assistants, I thrive on making AI smarter, more efficient, and impactful.  
+🔹 Built AI tools used by **5K+ enterprise users**  
+🔹 Contributed to financial platforms supporting **50K+ users**  
+🔹 Reduced AI latency by **35%** and inference costs by **25%**
 
-## 🚀 What I Do Best  
+---
 
-🔹 **Build & Fine-Tune LLMs** – Working with **GPT-4o, Llama3, Hugging Face models**, and optimizing them using **QLoRA, LoRA, and RAG techniques**.  
-🔹 **AI Agents & Automation** – Developing **CrewAI, AutoGen, and Agentic AI-based** autonomous systems that interact, learn, and make intelligent decisions.  
-🔹 **Generative AI for Real-World Applications** – From **AI-powered chatbots to speech synthesis tools**, I specialize in designing and deploying AI models that **solve real problems**.  
-🔹 **Cloud & MLOps** – Deploying AI models efficiently using **AWS, Azure OpenAI, Hugging Face Spaces**, while optimizing performance with **Docker, Kubernetes, and CI/CD workflows**.  
+<div align="center">
 
-## 🛠 My Favorite Tools & Tech  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PujaAmmineni&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PujaAmmineni&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-💡 **LLMs & AI Models**: GPT-4o, Llama3, Gemini Pro, Hugging Face  
-🔍 **RAG & Vector Search**: FAISS, ChromaDB, Pinecone, LangChain  
-🎨 **Multimodal AI**: Image-to-Text, Speech Synthesis, Conversational AI  
-🌎 **Cloud & DevOps**: AWS, Azure, Hugging Face, FastAPI, Docker, Kubernetes  
+</div>
 
-## 🏆 Cool Wins & Highlights  
+---
 
-🎯 **Built a ChatGPT-like web assistant** for document analysis using **GPT-4o & LangChain**, improving research efficiency by **35%**.  
-💡 **Developed an AI-powered chatbot** that automated supply chain queries, saving **$100K in just 4 months**.  
-🏆 **Winner of AI Hackathon 2021**, recognized for developing an innovative AI-driven automation tool.  
-📢 **Mentored 300+ students** in Python & Java through workshops and classes, helping them kickstart their AI Programing journey.  
+## 🧠 What I Work On
 
-## 💬 Let’s Chat AI!  
+✨ **Generative AI & LLM Systems**  
+RAG platforms • AI Agents • Enterprise Chatbots • Vector Search
 
-If you’re as passionate about **LLMs, AI Agents, and Generative AI** as I am, let’s connect! Whether it’s discussing research ideas, collaborating on open-source projects, or just geeking out over AI, I’d love to chat.  
+⚙️ **Machine Learning & Data Engineering**  
+End-to-end ML pipelines • Model evaluation • ETL • Feature engineering
 
-📍 **LinkedIn**: [https://www.linkedin.com/in/puja-ammineni/](https://www.linkedin.com/in/puja-ammineni/)  
-📧 **Email**: [pamminen@mtu.edu](mailto:pamminen@mtu.edu)  
+☁️ **Backend & Cloud Engineering**  
+REST APIs • Microservices • Distributed systems • MLOps
 
+---
+
+## 💻 Tech Stack
+
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/puja-ammineni/  
+🌐 Portfolio: https://your-portfolio-link.com  
+📧 Email: pamminen@mtu.edu  
+
+---
+
+⭐ Always open to collaboration and interesting AI projects!
