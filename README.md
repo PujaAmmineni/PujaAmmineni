@@ -14,12 +14,6 @@ I love taking ideas from research → real-world deployment, especially **LLMs, 
 
 ---
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PujaAmmineni&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PujaAmmineni&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
 
